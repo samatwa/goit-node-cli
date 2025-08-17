@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/samatwa/goit-node-cli#readme",
   "dependencies": {
-    "commander": "^14.0.0"
+    "commander": "^14.0.0",
+    "nanoid": "^5.1.5"
   }
 }
